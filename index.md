@@ -532,6 +532,7 @@ Signed,
 - Mark Brown (Linux, Debian)
 - Mark Tomko
 - Markus Unterwaditzer
+- Martin Braun (GNU Radio Board Member)
 - Martin Kühl
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
